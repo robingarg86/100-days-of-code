@@ -15,3 +15,9 @@
 **Link(s) to work**
 1. [I am Rich](https://github.com/robingarg86/Udemy_iOS12_Angela/commit/90f8568323b2c0dcb8713dd89ba30cdf33081b2a)
 2. [I am Poor](https://github.com/robingarg86/Udemy_iOS12_Angela/commit/d13b2e33563d5b4089a88b7fd88966e701295310)
+
+### Day 3: Monday, 19 November, 2018
+
+**Today's Progress**: Worked on Dice app.
+
+**Link to work:** [Dice App](https://github.com/robingarg86/Udemy_iOS12_Angela/commit/c8b82b20a68e866848f1e4395944c806e8481ff4)
