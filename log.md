@@ -21,3 +21,9 @@
 **Today's Progress**: Worked on Dice app.
 
 **Link to work:** [Dice App](https://github.com/robingarg86/Udemy_iOS12_Angela/commit/c8b82b20a68e866848f1e4395944c806e8481ff4)
+
+### Day 4: Tuesday, 20 November, 2018
+
+**Today's Progress**: Worked on Coding Challenge #2 - Swift Data Types, Variables and Arrays. Created Magic8Ball app.
+
+**Link to work:** [Magic8Ball App](https://github.com/robingarg86/Udemy_iOS12_Angela/commit/3cfbc040a4139f497a44ac9cc9633cb3dfe23bbe)
