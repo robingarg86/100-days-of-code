@@ -27,3 +27,10 @@
 **Today's Progress**: Worked on Coding Challenge #2 - Swift Data Types, Variables and Arrays. Created Magic8Ball app.
 
 **Link to work:** [Magic8Ball App](https://github.com/robingarg86/Udemy_iOS12_Angela/commit/3cfbc040a4139f497a44ac9cc9633cb3dfe23bbe)
+
+
+### Day 5: Wednesday, 21 November, 2018
+
+**Today's Progress**: Started working on Programming in Swift 4 for Beginners [Using Swift Playgrounds]. Covered functions and control flow with conditional statements(if/else).
+
+**Link to work:** [Playground file with diffrennt kind of funtions examples](https://github.com/robingarg86/Udemy_iOS12_Angela/commit/220430843e6a25407399ffea95c923cdc84c8593
