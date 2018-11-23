@@ -34,3 +34,10 @@
 **Today's Progress**: Started working on Programming in Swift 4 for Beginners [Using Swift Playgrounds]. Covered functions and control flow with conditional statements(if/else).
 
 **Link to work:** [Playground file with diffrennt kind of funtions examples](https://github.com/robingarg86/Udemy_iOS12_Angela/commit/220430843e6a25407399ffea95c923cdc84c8593)
+
+### Day 6: Thursday, 22 November, 2018
+
+**Today's Progress**: Completed Programming in Swift 4 for Beginners [Using Swift Playgrounds] covered loops.
+
+**Link to work:** [Playground file for Loops](https://github.com/robingarg86/Udemy_iOS12_Angela/commit/435ae1375ecc511cb9dff281ab6c7abd60bf440c)
+
