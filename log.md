@@ -41,3 +41,10 @@
 
 **Link to work:** [Playground file for Loops](https://github.com/robingarg86/Udemy_iOS12_Angela/commit/435ae1375ecc511cb9dff281ab6c7abd60bf440c)
 
+### Day 7: Friday, 23 November, 2018
+
+**Today's Progress:** Worked on Apple iOS APIs - Make a Music App. Ccreated Xylophone app.
+
+**Thoughts:** This section was more about how to use apple doucmentation. How to serch for solutions. How to solve bugs.
+
+**Link to work:** [Xylophone App](https://github.com/robingarg86/Udemy_iOS12_Angela/commit/a99db6f84ff5b0328f85cb4fbeb18685213c1d10)
