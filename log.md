@@ -6,6 +6,7 @@
 
 **Thoughts:** Today didn't do much coding part.
 
+
 ### Day 2: Sunday, 18 November, 2018
 
 **Today's Progress**: Worked on Interface builder. Created simple single view app I am Rich and completed Coading Challenge I am Poor
@@ -16,11 +17,13 @@
 1. [I am Rich](https://github.com/robingarg86/Udemy_iOS12_Angela/commit/90f8568323b2c0dcb8713dd89ba30cdf33081b2a)
 2. [I am Poor](https://github.com/robingarg86/Udemy_iOS12_Angela/commit/d13b2e33563d5b4089a88b7fd88966e701295310)
 
+
 ### Day 3: Monday, 19 November, 2018
 
 **Today's Progress**: Worked on Dice app.
 
 **Link to work:** [Dice App](https://github.com/robingarg86/Udemy_iOS12_Angela/commit/c8b82b20a68e866848f1e4395944c806e8481ff4)
+
 
 ### Day 4: Tuesday, 20 November, 2018
 
@@ -35,11 +38,13 @@
 
 **Link to work:** [Playground file with diffrennt kind of funtions examples](https://github.com/robingarg86/Udemy_iOS12_Angela/commit/220430843e6a25407399ffea95c923cdc84c8593)
 
+
 ### Day 6: Thursday, 22 November, 2018
 
 **Today's Progress**: Completed Programming in Swift 4 for Beginners [Using Swift Playgrounds] covered loops.
 
 **Link to work:** [Playground file for Loops](https://github.com/robingarg86/Udemy_iOS12_Angela/commit/435ae1375ecc511cb9dff281ab6c7abd60bf440c)
+
 
 ### Day 7: Friday, 23 November, 2018
 
@@ -48,3 +53,12 @@
 **Thoughts:** This section was more about how to use apple doucmentation. How to serch for solutions. How to solve bugs.
 
 **Link to work:** [Xylophone App](https://github.com/robingarg86/Udemy_iOS12_Angela/commit/a99db6f84ff5b0328f85cb4fbeb18685213c1d10)
+
+
+### Day 8: Saturday, 24 November, 2018
+
+**Today's Progress:** Worked on the Model-View-Controller (MVC) Design Pattern - Make a quiz app. Basic MVC implemented into project. 
+
+**Thoughts:** Today its more about understanding MVC and OOP.
+
+**Link to work:** [Quiz App](https://github.com/robingarg86/Udemy_iOS12_Angela/commit/f57a7e399e274d29c36ec51190bedae05bbaa78f)
