@@ -62,3 +62,10 @@
 **Thoughts:** Today its more about understanding MVC and OOP.
 
 **Link to work:** [Quiz App](https://github.com/robingarg86/Udemy_iOS12_Angela/commit/f57a7e399e274d29c36ec51190bedae05bbaa78f)
+
+
+### Day 9: Sunday, 25 November, 2018
+
+**Today's Progress:** Instead of working on Udemy course today i spend time on Playground app on my iPad learing swift. 
+
+**Thoughts:** It is really a nice way to learn programming in totally new flavour. Good for totally fresh learners.
