@@ -70,8 +70,16 @@
 
 **Thoughts:** It is really a nice way to learn programming in totally new flavour. Good for totally fresh learners.
 
+
 ### Day 10: Monday, 26 November, 2018
 
 **Today's Progress:** Come back to my Udemy Course and completed Quiz app.
 
 **Link to work:** [Quiz App (Completed)](https://github.com/robingarg86/Udemy_iOS12_Angela/commit/99bdb15e78faa17611b28bbe13fa2ac51a1e942e)
+
+
+### Day 11: Tuesday, 27 November, 2018
+
+**Today's Progress:** Worked on Coding Challenge #3 - Control Flow - Build a Story App Like Lifeline.
+
+**Link to work:** [Destini App](https://github.com/robingarg86/Udemy_iOS12_Angela/commit/f019013a9dc2db9b0ab61d18fb89cdd38e2cb6c4)
