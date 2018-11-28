@@ -83,3 +83,10 @@
 **Today's Progress:** Worked on Coding Challenge #3 - Control Flow - Build a Story App Like Lifeline.
 
 **Link to work:** [Destini App](https://github.com/robingarg86/Udemy_iOS12_Angela/commit/f019013a9dc2db9b0ab61d18fb89cdd38e2cb6c4)
+
+
+### Day 12: Wednesday, 28 November, 2018
+
+**Today's Progress:** Worked on Programming in Swift 4 for Intermediates covered Classes & Objects and Optionals.
+
+**Link to work:** [Classes & Objects Practive App](https://github.com/robingarg86/Udemy_iOS12_Angela/commit/1ffa49fb9825f23ecad5703865b050948ea58edb)
