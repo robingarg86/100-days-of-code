@@ -90,3 +90,8 @@
 **Today's Progress:** Worked on Programming in Swift 4 for Intermediates covered Classes & Objects and Optionals.
 
 **Link to work:** [Classes & Objects Practive App](https://github.com/robingarg86/Udemy_iOS12_Angela/commit/1ffa49fb9825f23ecad5703865b050948ea58edb)
+
+
+### Day 13: Thursday, 29 November, 2018
+
+**Today's Progress:** Studied some blogs about swift and will continue to this for few days.
