@@ -95,3 +95,8 @@
 ### Day 13: Thursday, 29 November, 2018
 
 **Today's Progress:** Studied some blogs about swift and will continue to this for few days.
+
+
+### Day 14: Saturday, 1 December, 2018
+
+**Today's Progress:** On Friday i wasn't able to continue. So i continued studing swift blogs.
