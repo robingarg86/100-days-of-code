@@ -100,3 +100,8 @@
 ### Day 14: Saturday, 1 December, 2018
 
 **Today's Progress:** On Friday i wasn't able to continue. So i continued studing swift blogs.
+
+
+### Day 15: Sunday, 2 December, 2018
+
+**Today's Progress:** Covered Chapter 1 - A Swift Tour - Swift Programming language by Apple. It was just an introduction about the language. Now cover topics in details.
