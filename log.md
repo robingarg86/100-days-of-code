@@ -105,3 +105,8 @@
 ### Day 15: Sunday, 2 December, 2018
 
 **Today's Progress:** Covered Chapter 1 - A Swift Tour - Swift Programming language by Apple. It was just an introduction about the language. Now cover topics in details.
+
+
+### Day 16: Monday, 3 December, 2018
+
+**Today's Progress:** Covered Chapter 2 - The Basics - Swift Programming language by Apple.
