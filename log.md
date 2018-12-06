@@ -115,3 +115,8 @@
 ### Day 17: Tuesday, 4 December, 2018
 
 **Today's Progress:** Covered Chapter 3 - Basic Operators - Swift Programming language by Apple.
+
+
+### Day 18: Wednesday, 5 December, 2018
+
+**Today's Progress:** Covered Chapter 4 - Strings and Characters of Swift Programming language by Apple.
