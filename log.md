@@ -120,3 +120,8 @@
 ### Day 18: Wednesday, 5 December, 2018
 
 **Today's Progress:** Covered Chapter 4 - Strings and Characters of Swift Programming language by Apple.
+
+
+### Day 19: Thursday, 6 December, 2018
+
+**Today's Progress:** Covered Chapter 5 - Collection Types of Swift Programming language by Apple.
