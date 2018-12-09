@@ -125,3 +125,9 @@
 ### Day 19: Thursday, 6 December, 2018
 
 **Today's Progress:** Covered Chapter 5 - Collection Types of Swift Programming language by Apple.
+
+
+
+### Day 19 & 20: Friday, 7 December, 2018 & Saturday, 8 December, 2018
+
+**Today's Progress:** Covered Chapter 5 - Control Flow of Swift Programming language by Apple.
