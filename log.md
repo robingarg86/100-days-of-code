@@ -136,3 +136,7 @@
 
 **Today's Progress:** Covered Chapter 7 - Functions of Swift Programming language by Apple.
 
+
+### Day 23: Monday, 10 December, 2018
+
+**Today's Progress:** Covered Chapter 8 - Closures of Swift Programming language by Apple.
