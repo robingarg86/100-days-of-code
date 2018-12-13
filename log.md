@@ -140,3 +140,8 @@
 ### Day 23: Monday, 10 December, 2018
 
 **Today's Progress:** Covered Chapter 8 - Closures of Swift Programming language by Apple.
+
+
+### Day 24: Wednesday, 12 December, 2018
+
+**Today's Progress:** On Tuesday i wasn't able to find time for reading as some other urgent deliveries. So on Wednesday i covered Chapter 9 - Enumerations of Swift Programming language by Apple.
