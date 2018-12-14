@@ -145,3 +145,8 @@
 ### Day 24: Wednesday, 12 December, 2018
 
 **Today's Progress:** On Tuesday i wasn't able to find time for reading as some other urgent deliveries. So on Wednesday i covered Chapter 9 - Enumerations of Swift Programming language by Apple.
+
+
+### Day 25: Thursday, 13 December, 2018
+
+**Today's Progress:** Covered chapter 10 - Structures and Classes of Swift Programming language by Apple.
