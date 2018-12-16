@@ -150,3 +150,8 @@
 ### Day 25: Thursday, 13 December, 2018
 
 **Today's Progress:** Covered chapter 10 - Structures and Classes of Swift Programming language by Apple.
+
+
+### Day 26 & 27: Friday, 14 December, 2018 & Saturday, 15 December, 2018
+
+**Today's Progress:** Covered chapter 11 - Properties of Swift Programming language by Apple.
