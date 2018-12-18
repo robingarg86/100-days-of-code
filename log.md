@@ -160,3 +160,8 @@
 ### Day 28: Sunday, 16 December, 2018
 
 **Today's Progress:** Covered chapter 12 - Methods of Swift Programming language by Apple.
+
+
+### Day 29: Monday, 17 December, 2018
+
+**Today's Progress:** Covered chapter 13 - Subscripts of Swift Programming language by Apple.
