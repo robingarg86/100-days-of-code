@@ -165,3 +165,9 @@
 ### Day 29: Monday, 17 December, 2018
 
 **Today's Progress:** Covered chapter 13 - Subscripts of Swift Programming language by Apple.
+
+
+### Day 30: Tuesday, 18 December, 2018
+
+**Today's Progress:** Covered chapter 14 - Inheritance of Swift Programming language by Apple.
+
