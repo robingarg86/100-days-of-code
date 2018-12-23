@@ -177,7 +177,11 @@
 **Today's Progress:** Covered chapter 15 & 16 - Initialization & Deinitialization of Swift Programming language by Apple.
 
 
-### Day 32: Friday, 21 December, 2018
+### Day 33: Friday, 21 December, 2018
 
 **Today's Progress:** Covered chapter 17 - Optional Chaining of Swift Programming language by Apple.
 
+
+### Day 34: Saturday, 22 December, 2018
+
+**Today's Progress:** Covered chapter 18 - Error Handling of Swift Programming language by Apple.
