@@ -185,3 +185,9 @@
 ### Day 34: Saturday, 22 December, 2018
 
 **Today's Progress:** Covered chapter 18 - Error Handling of Swift Programming language by Apple.
+
+
+### Day 35: Sunday, 23 December, 2018
+
+**Today's Progress:** Covered chapter 19, 20, 21 - Type Casting, Nested Types and Extentions of Swift Programming language by Apple.
+
