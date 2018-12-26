@@ -191,3 +191,7 @@
 
 **Today's Progress:** Covered chapter 19, 20, 21 - Type Casting, Nested Types and Extentions of Swift Programming language by Apple.
 
+
+### Day 36 & 37: Monday, 24 December, 2018, Tuesday, 25 December, 2018
+
+**Today's Progress:** Covered chapter 22 - Protocols of Swift Programming language by Apple. Watched WWDC 2015 Video on Protocol Oriented Programming in Swift.
