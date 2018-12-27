@@ -195,3 +195,8 @@
 ### Day 36 & 37: Monday, 24 December, 2018, Tuesday, 25 December, 2018
 
 **Today's Progress:** Covered chapter 22 - Protocols of Swift Programming language by Apple. Watched WWDC 2015 Video on Protocol Oriented Programming in Swift.
+
+
+### Day 38: Wednesday, 26 December, 2018
+
+**Today's Progress:** Covered chapter 23 - Generics of Swift Programming language by Apple and also worked on Advanced Swift Part 1 of my Udemy Course on iOS 12 with Swift 4.2.
