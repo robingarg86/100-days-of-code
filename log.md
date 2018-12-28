@@ -200,3 +200,8 @@
 ### Day 38: Wednesday, 26 December, 2018
 
 **Today's Progress:** Covered chapter 23 - Generics of Swift Programming language by Apple and also worked on Advanced Swift Part 1 of my Udemy Course on iOS 12 with Swift 4.2.
+
+
+### Day 39: Thursday, 27 December, 2018
+
+**Today's Progress:** Covered chapter 24 - Automatic Reference Counting(ARC) of Swift Programming language by Apple and also worked on **iOS Auto Layout and Setting Constraints** of my Udemy Course on iOS 12 with Swift 4.2. I covered item exept last one **Autolayout with Stack View**. Which covers the UI part of Calculator app. Which i am going to build next.
