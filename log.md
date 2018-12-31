@@ -203,8 +203,30 @@
 
 **Link to work:** [Properties Practice Playground file](https://github.com/robingarg86/Udemy_iOS12_Angela/commit/16cb7f812f14ac1013a75f15340e3168d0c20fcf)
 
+
 ### Day 39: Thursday, 27 December, 2018
 
 **Today's Progress:** Covered chapter 24 - Automatic Reference Counting(ARC) of Swift Programming language by Apple and also worked on **iOS Auto Layout and Setting Constraints** of my Udemy Course on iOS 12 with Swift 4.2. I covered item exept last one **Autolayout with Stack View**. Which covers the UI part of Calculator app. Which i am going to build next.
 
 **Link to work:** [Auto Layout Practice App](https://github.com/robingarg86/Udemy_iOS12_Angela/commit/eb5e5cdc5498c51b26d31fd921c0e1c332db7f62)
+
+
+### Day 40: Friday, 28 December, 2018
+
+**Today's Progress:** Covered chapter 25 - Memory Safety of Swift Programming language by Apple and also worked on **Stack Views with Auto Layout** of my Udemy Course on iOS 12 with Swift 4.2.
+
+**Link to work:** [Auto Layout With Stack Views - Calculator App UI](https://github.com/robingarg86/Udemy_iOS12_Angela/commit/c157bec0e50e2761237015bbf28991a204136992)
+
+
+### Day 41: Saturday, 29 December, 2018
+
+**Today's Progress:** Covered few parts of chapter 26 - Access Control of Swift Programming language by Apple and also worked on **Advanced Swift Part 2** of my Udemy Course on iOS 12 with Swift 4.2. I modified UI of my Calculator App and add some add functionality to it.
+
+**Link to work:** [Calulator App UI & Few Functionalty](https://github.com/robingarg86/Udemy_iOS12_Angela/commit/67a45cc223719ebc38f15862f3042bff90651c25)
+
+
+### Day 42: Sunday, 30 December, 2018
+
+**Today's Progress:** Completed chapter 26 - Access Control of Swift Programming language by Apple and also worked on **iOS Auto Layout and Setting Constraints** of my Udemy Course on iOS 12 with Swift 4.2. I covered some videos related to **Access Control** and **Advanced Optionals**.
+
+**Link to work:** [Access Level Practice Mac App](https://github.com/robingarg86/Udemy_iOS12_Angela/commit/89ef7d93f8ac597a11dece1c723a609bd377cbb6)
