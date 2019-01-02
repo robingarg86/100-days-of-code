@@ -230,3 +230,8 @@
 **Today's Progress:** Completed chapter 26 - Access Control of Swift Programming language by Apple and also worked on **iOS Auto Layout and Setting Constraints** of my Udemy Course on iOS 12 with Swift 4.2. I covered some videos related to **Access Control** and **Advanced Optionals**.
 
 **Link to work:** [Access Level Practice Mac App](https://github.com/robingarg86/Udemy_iOS12_Angela/commit/89ef7d93f8ac597a11dece1c723a609bd377cbb6)
+
+
+### Day 43 & 44: Monday, 31 December, 2018, Tuesday, 1 January, 2019
+
+**Today's Progress:** Worked on **Advanced Swift Part 2** section of my Udemy Cource. Covered some Topics like MVC, Struct Vs Classes, guard let vs if let etc. It also covers funtionality of Calculator app.
