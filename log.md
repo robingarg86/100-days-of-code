@@ -235,3 +235,10 @@
 ### Day 43 & 44: Monday, 31 December, 2018, Tuesday, 1 January, 2019
 
 **Today's Progress:** Worked on **Advanced Swift Part 2** section of my Udemy Cource. Covered some Topics like MVC, Struct Vs Classes, guard let vs if let etc. It also covers funtionality of Calculator app.
+
+
+### Day 45: Saturday, 5 January, 2019
+
+**Today's Progress:** Past 3 days(2-4 Jan) i didn't do some coding or read any specific topic. Instead i read random things about Swift and iOS deveopment. So i am not counting these days. Today i resumed my Udemy course and started with Section 13. In that section i implemented Cocoapods and get current location and hit api using Alamofire pod.
+
+**Link to work:** [Clima - Weather App](https://github.com/robingarg86/Udemy_iOS12_Angela/commit/b05e2f9b874040e214236d04a8f5c48ffa904f29)
