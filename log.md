@@ -242,3 +242,10 @@
 **Today's Progress:** Past 3 days(2-4 Jan) i didn't do some coding or read any specific topic. Instead i read random things about Swift and iOS deveopment. So i am not counting these days. Today i resumed my Udemy course and started with Section 13. In that section i implemented Cocoapods and get current location and hit api using Alamofire pod.
 
 **Link to work:** [Clima - Weather App](https://github.com/robingarg86/Udemy_iOS12_Angela/commit/b05e2f9b874040e214236d04a8f5c48ffa904f29)
+
+
+### Day 46: Sunday, 6 January, 2019
+
+**Today's Progress:** Continue with **Section 13** of my Udemy course. Completed my Clima app. Also watch **Section 14** which was on **Command Line Toosls**.
+
+**Link to work:** [Clima - Weather App](https://github.com/robingarg86/Udemy_iOS12_Angela/commit/763edf17fc6b1199fd5206c55a4b4b597189b4af)
