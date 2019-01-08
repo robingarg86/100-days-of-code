@@ -249,3 +249,10 @@
 **Today's Progress:** Continue with **Section 13** of my Udemy course. Completed my Clima app. Also watch **Section 14** which was on **Command Line Toosls**.
 
 **Link to work:** [Clima - Weather App](https://github.com/robingarg86/Udemy_iOS12_Angela/commit/763edf17fc6b1199fd5206c55a4b4b597189b4af)
+
+
+### Day 47: Monday, 7 January, 2019
+
+**Today's Progress:** Worked on **Section 15** of my Udemy course. Created Bitcoin Price Tracker app.
+
+**Link to work:** [Bitcoin Price Tracker App](https://github.com/robingarg86/Udemy_iOS12_Angela/commit/753636869a4acfc6c878bf757797fa57df100541)
