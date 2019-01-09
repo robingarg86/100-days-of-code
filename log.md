@@ -256,3 +256,9 @@
 **Today's Progress:** Worked on **Section 15** of my Udemy course. Created Bitcoin Price Tracker app.
 
 **Link to work:** [Bitcoin Price Tracker App](https://github.com/robingarg86/Udemy_iOS12_Angela/commit/753636869a4acfc6c878bf757797fa57df100541)
+
+
+### Day 48: Tuesday, 8 January, 2019
+
+**Today's Progress:** Worked on **Section 16** of my Udemy course. Started working on Chat app. Created account on Firebase.
+Libraries added to project. Register user with firebase.
