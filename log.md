@@ -262,3 +262,12 @@
 
 **Today's Progress:** Worked on **Section 16** of my Udemy course. Started working on Chat app. Created account on Firebase.
 Libraries added to project. Register user with firebase.
+
+**Link to work:** [Chat App](https://github.com/robingarg86/Udemy_iOS12_Angela/commit/7451dafb345012eaecded8b086188449f5c585f6)
+
+### Day 49: Wednesday, 9 January, 2019
+
+**Today's Progress:** Worked on **Section 16** of my Udemy course. Chat app functionality almost completed. Only Some UI fixes pending. Used Firebase Realtime Database to storing messages.
+
+**Link to work:** [Chat App](https://github.com/robingarg86/Udemy_iOS12_Angela/commit/7451dafb345012eaecded8b086188449f5c585f6)
+
