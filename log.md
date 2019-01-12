@@ -276,3 +276,9 @@ Libraries added to project. Register user with firebase.
 ### Day 50: Wednesday, 10 January, 2019
 
 **Today's Progress:** Chat app functionality completed. Worked on **Section 17** of my Udemy course. It is on Git and Github. Covered Basic commands, gitignore, branching and merging.
+
+
+### Day 51: Thursday, 11 January, 2019
+
+**Today's Progress:** **Section 17** of my Udemy course completed. Covered forking and pull request. Started **Section 18** which is on Persistance.
+ 
