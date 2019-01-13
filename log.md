@@ -282,3 +282,9 @@ Libraries added to project. Register user with firebase.
 
 **Today's Progress:** **Section 17** of my Udemy course completed. Covered forking and pull request. Started **Section 18** which is on Persistance.
  
+
+### Day 52: Thursday, 12 January, 2019
+
+**Today's Progress:** Worked on Todo List app. Listing implemented, Can add new item, Item is persisted into local file.
+ 
+**Link to work:** [Todoey App](https://github.com/robingarg86/Udemy_iOS12_Angela/commit/5598ddd034133ce67c02b12c58e3abe3a37c8a3e)
