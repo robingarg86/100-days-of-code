@@ -273,18 +273,25 @@ Libraries added to project. Register user with firebase.
 **Link to work:** [Chat App](https://github.com/robingarg86/Udemy_iOS12_Angela/commit/7451dafb345012eaecded8b086188449f5c585f6)
 
 
-### Day 50: Wednesday, 10 January, 2019
+### Day 50: Thursday, 10 January, 2019
 
 **Today's Progress:** Chat app functionality completed. Worked on **Section 17** of my Udemy course. It is on Git and Github. Covered Basic commands, gitignore, branching and merging.
 
 
-### Day 51: Thursday, 11 January, 2019
+### Day 51: Friday, 11 January, 2019
 
 **Today's Progress:** **Section 17** of my Udemy course completed. Covered forking and pull request. Started **Section 18** which is on Persistance.
  
 
-### Day 52: Thursday, 12 January, 2019
+### Day 52: Saturday, 12 January, 2019
 
 **Today's Progress:** Worked on Todo List app. Listing implemented, Can add new item, Item is persisted into local file.
  
-**Link to work:** [Todoey App](https://github.com/robingarg86/Udemy_iOS12_Angela/commit/5598ddd034133ce67c02b12c58e3abe3a37c8a3e)
+**Link to work:** [Todoey App (LocalFile - Codable)](https://github.com/robingarg86/Udemy_iOS12_Angela/commit/5598ddd034133ce67c02b12c58e3abe3a37c8a3e)
+
+
+### Day 53: Sunday, 13 January, 2019
+
+**Today's Progress:** Worked on Todo List app. CoreData added for data persistence. CRUD operations implemented.
+ 
+**Link to work:** [Todoey App (CoreData)](https://github.com/robingarg86/Udemy_iOS12_Angela/commit/8d28376a95ef039e4612bc6437d5785078673ffc)
