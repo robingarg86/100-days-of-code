@@ -295,3 +295,10 @@ Libraries added to project. Register user with firebase.
 **Today's Progress:** Worked on Todo List app. CoreData added for data persistence. CRUD operations implemented.
  
 **Link to work:** [Todoey App (CoreData)](https://github.com/robingarg86/Udemy_iOS12_Angela/commit/8d28376a95ef039e4612bc6437d5785078673ffc)
+
+
+### Day 54: Monday, 14 January, 2019
+
+**Today's Progress:** Worked on Todo List app. Multiple Entities created in CoreData added relationships. Get data based on relationships.
+
+**Link to work:** [Todoey App](https://github.com/robingarg86/Udemy_iOS12_Angela/commit/ccfa2a7eaa4ee78d3b74fa30db8d59166b79e759)
