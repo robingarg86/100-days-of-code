@@ -302,3 +302,8 @@ Libraries added to project. Register user with firebase.
 **Today's Progress:** Worked on Todo List app. Multiple Entities created in CoreData added relationships. Get data based on relationships.
 
 **Link to work:** [Todoey App](https://github.com/robingarg86/Udemy_iOS12_Angela/commit/ccfa2a7eaa4ee78d3b74fa30db8d59166b79e759)
+
+
+### Day 55: Wednesday, 16 January, 2019
+
+**Today's Progress:** Wasn't able to work on Tuesday due to bad health. Today also not feeling well so didn't do much but listen video on Realm.
