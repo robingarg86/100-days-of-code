@@ -307,3 +307,8 @@ Libraries added to project. Register user with firebase.
 ### Day 55: Wednesday, 16 January, 2019
 
 **Today's Progress:** Wasn't able to work on Tuesday due to bad health. Today also not feeling well so didn't do much but listen video on Realm.
+
+
+### Day 56: Thursday, 17 January, 2019
+
+**Today's Progress:** Implemented Realm into project and Replaced CoreData with Realm. Replaced CRUD operations with Realm.
