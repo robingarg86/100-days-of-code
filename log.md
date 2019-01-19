@@ -312,3 +312,12 @@ Libraries added to project. Register user with firebase.
 ### Day 56: Thursday, 17 January, 2019
 
 **Today's Progress:** Implemented Realm into project and Replaced CoreData with Realm. Replaced CRUD operations with Realm.
+
+**Link to work:** [Todoey App](https://github.com/robingarg86/Udemy_iOS12_Angela/commit/8632cee6ca074fd2af5d142cd44990a3706af187)
+
+
+### Day 57: Friday, 18 January, 2019
+
+**Today's Progress:** Implemented Realm for searching items. Used filtering items using predicate and sorting.
+
+**Link to work:** [Todoey App](https://github.com/robingarg86/Udemy_iOS12_Angela/commit/6f44898d50e9faee668e4063fe47fa3a6c824a8a)
