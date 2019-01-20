@@ -321,3 +321,10 @@ Libraries added to project. Register user with firebase.
 **Today's Progress:** Implemented Realm for searching items. Used filtering items using predicate and sorting.
 
 **Link to work:** [Todoey App](https://github.com/robingarg86/Udemy_iOS12_Angela/commit/6f44898d50e9faee668e4063fe47fa3a6c824a8a)
+
+
+### Day 58: Saturday, 19 January, 2019
+
+**Today's Progress:** Implemented swipe to delete funtionality using SwipeCallKit Pod.
+
+**Link to work:** [Todoey App](https://github.com/robingarg86/Udemy_iOS12_Angela/commit/4493bdbed1e7485ceac7a2cf13a3ca0daecae682)
