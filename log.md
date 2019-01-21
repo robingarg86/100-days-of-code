@@ -328,3 +328,10 @@ Libraries added to project. Register user with firebase.
 **Today's Progress:** Implemented swipe to delete funtionality using SwipeCallKit Pod.
 
 **Link to work:** [Todoey App](https://github.com/robingarg86/Udemy_iOS12_Angela/commit/4493bdbed1e7485ceac7a2cf13a3ca0daecae682)
+
+
+### Day 59: Sunday, 20 January, 2019
+
+**Today's Progress:** Worked in imporving UI of my Todo application. Implemented ChameleonFramework Pod for adding colors to app in gradient.
+
+**Link to work:** [Todoey App](https://github.com/robingarg86/Udemy_iOS12_Angela/commit/77cd55b9d391825a774d0934da659f489801ba64)
