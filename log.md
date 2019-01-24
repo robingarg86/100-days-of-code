@@ -340,3 +340,8 @@ Libraries added to project. Register user with firebase.
 ### Day 60: Tuesday, 22 January, 2019
 
 **Today's Progress:** Read about Design Patterns in Swift. Covered MVC, MVVM, Singleton, Delegation
+
+
+### Day 61: Tuesday, 23 January, 2019
+
+**Today's Progress:** Read about Design Patterns in Swift. Read more about MVVM and Factory Method.
