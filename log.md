@@ -346,10 +346,17 @@ Libraries added to project. Register user with firebase.
 
 **Today's Progress:** Read about Design Patterns in Swift. Read more about MVVM and Factory Method.
 
+
 ### Day __ : 24 - 27 January 2019
 
 **Today's Progress:** I was lost during these days. I haven't any plan. So wasn't able to do anything. But i got some time to find out what should be the action plan.
 
+
 ### Day 62 & 63: Monday, 28 January, 2019 & Tuesday, 29 January, 2019
 
 **Today's Progress:** Read some blogs about MVVM, Delegate and Delegation on Appcode.com
+
+
+### Day 64: Wednesday, 30 January, 2019
+
+**Today's Progress:** Read some more blogs about Design Patterns on medium.com
