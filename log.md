@@ -360,3 +360,12 @@ Libraries added to project. Register user with firebase.
 ### Day 64: Wednesday, 30 January, 2019
 
 **Today's Progress:** Read some more blogs about Design Patterns on medium.com
+
+
+### Day __ : 31 January - 3 Febuary 2019
+
+**Today's Progress:** I was tring to learn advanced topics of Swift language. But i was not comfortable with the language much. So i was not able to proceed further and i got trapped. But now i have replanned my action plan.
+
+### Day 65: Tuesday, 4 Febuary 2019
+
+**Today's Progress:** Read Blog on Decorator Design Pattern. Which also includes Repository Design Pattern. I got understand Repository pattern. But need to focus on Decorator pattern.
