@@ -366,6 +366,12 @@ Libraries added to project. Register user with firebase.
 
 **Today's Progress:** I was tring to learn advanced topics of Swift language. But i was not comfortable with the language much. So i was not able to proceed further and i got trapped. But now i have replanned my action plan.
 
+
 ### Day 65: Tuesday, 4 Febuary 2019
 
 **Today's Progress:** Read Blog on Decorator Design Pattern. Which also includes Repository Design Pattern. I got understand Repository pattern. But need to focus on Decorator pattern.
+
+
+### Day 66 - 67: Wednesday, 5 Febuary 2019 & Thursday, 6 Febuary 2019
+
+**Today's Progress:**  I just completed Hacking with Swift tutorial. Will start creating project from tomorrow.
